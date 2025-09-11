@@ -1,21 +1,19 @@
 ## ⭐ Hi! I'm James. 
 
-- I am a first year Computer Science student at the University of Essex.
-- I'm interested in exploration, programming, photography & gaming!
-- My favourite games are the Legend of Zelda: Breath of the Wild, Watch Dogs, Cyberpunk 2077 & Apex Legends.
-- I aspire to someday be a software engineer.
+- I am a Computer Science student at the University of Essex.
+- My interests include travel & exploration, programming, photography, and gaming!
+- My top five games are the Legend of Zelda: Breath of the Wild, Watch Dogs, Cyberpunk 2077, Apex Legends, and Sea of Thieves.
 
 ## 🌱 Currently Learning
 
-- HTML, CSS, JavaScript, Python, and hopefully a little C++. Always looking to learn more!
+- HTML, CSS, JavaScript, Python, and hopefully a little C++.
+- Dutch! 🇳🇱
+- I'm also looking to get CompTIA and Microsoft certifications! 
 
 ## ⚡ Current / Future Projects
 
-- I am currently focused on perfecting my personal profile website.
+- I am currently focused on completing my University coding assignments and my personal profile website.
 - Along with that, I am doing small Python projects for my own personal tasks.
-
-
-- I am looking into C++ projects, and I may be developing it soon!
 
 ## ✉️ How to Reach Me
 
