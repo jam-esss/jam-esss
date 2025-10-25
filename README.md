@@ -2,12 +2,12 @@
 
 - I am a Computer Science student at the University of Essex.
 - My interests include travel & exploration, programming, photography, and gaming!
-- My top five games are the Legend of Zelda: Breath of the Wild, Watch Dogs, Cyberpunk 2077, Apex Legends, and Sea of Thieves.
+- My top five games are the Legend of Zelda: Breath of the Wild, Watch Dogs, Cyberpunk 2077, Apex Legends, and Sea of Thieves. (Bonus- Arc Raiders!)
 
 ## 🌱 Currently Learning
 
 - HTML, CSS, JavaScript, Python, and hopefully a little C++.
-- Dutch! 🇳🇱
+- 🇯🇵
 - I'm also looking to get CompTIA and Microsoft certifications! 
 
 ## ⚡ Current / Future Projects
