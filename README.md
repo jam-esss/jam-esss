@@ -7,13 +7,13 @@
 ## 🌱 Currently Learning
 
 - HTML, CSS, JavaScript, Python, and hopefully a little C++.
-- 🇯🇵
-- I'm also looking to get CompTIA and Microsoft certifications! 
+- 🇳🇱
+- I would also like to get some CompTIA and Microsoft certifications.
 
 ## ⚡ Current / Future Projects
 
-- I am currently focused on completing my University coding assignments and my personal profile website.
-- Along with that, I am doing small Python projects for my own personal tasks.
+- I am currently focused on completing my University assignments.
+- Also some small side projects, such as my CV website (which I will probably update 1000 more times).
 
 ## ✉️ How to Reach Me
 
