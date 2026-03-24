@@ -6,14 +6,13 @@
 
 ## 🌱 Currently Learning
 
-- HTML, CSS, JavaScript, Python, and hopefully a little C++.
-- 🇳🇱
-- I would also like to get some CompTIA and Microsoft certifications.
+- HTML, CSS, JavaScript, PHP & Python.
+- 🇩🇪 🇯🇵
 
 ## ⚡ Current / Future Projects
 
 - I am currently focused on completing my University assignments.
-- Also some small side projects, such as my CV website (which I will probably update 1000 more times).
+- I am currently employed at AMSG.
 
 ## ✉️ How to Reach Me
 
