@@ -45,5 +45,8 @@
 ## ✉️ Connect with Me
 
 Feel free to reach out to me via LinkedIn! I am always open to advice, opinions, and opportunities to connect.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/jamesssss/))
+<div>
+  <a href="https://www.linkedin.com/in/jamesssss/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
